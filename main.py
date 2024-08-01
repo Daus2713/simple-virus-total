@@ -63,8 +63,7 @@ intro_text = r"""[[blue]]
  |____/     \_/    [[green]]   |_|    \___/   \__|  \__,_| |_|  [[blue]]
                                                     
     [[white]]by Daus2713 
-    [[red]]Please create file myapikey.txt and add your Virus Total API key            
-    [[magenta]]
+    [[red]]Please create file myapikey.txt and add your Virus Total API key            [[magenta]]
 """
 
 options = """
