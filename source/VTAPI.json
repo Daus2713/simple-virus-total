@@ -1,0 +1,27 @@
+{
+  "url": {
+    "scan-url": {
+      "api-link": "https://www.virustotal.com/api/v3/urls",
+      "headers": {
+        "accept": "application/json",
+        "content-type": "application/x-www-form-urlencoded"
+      }
+    }
+  },
+  "files": {
+    "scan-file": {
+      "api-link": "https://www.virustotal.com/api/v3/files",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  },
+  "analysis_file_url": {
+    "analysis": {
+      "api-link": "https://www.virustotal.com/api/v3/analyses/",
+      "headers": {
+        "accept": "application/json"
+      }
+    }
+  }
+}
